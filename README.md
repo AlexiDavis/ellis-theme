@@ -9,6 +9,3 @@ Chaos magic motif theme for Tumblr
 4. Paste it over everything in the Edit HTML box
 
 Voilà!
-
-If you have any issues, problems, questions, or requests, 
-[my askbox is always open](http://tittenkits.tumblr.com/ask) or [use the contact form on my site](http://alexidavis.com/contact)
